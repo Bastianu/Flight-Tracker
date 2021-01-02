@@ -1,0 +1,174 @@
+[
+    {
+        "merged": "C:\\Users\\basti\\AndroidStudioProjects\\Aereports\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_launcher_custom_round.png.flat",
+        "source": "C:\\Users\\basti\\AndroidStudioProjects\\Aereports\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher_custom_round.png"
+    },
+    {
+        "merged": "C:\\Users\\basti\\AndroidStudioProjects\\Aereports\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_launcher_custom_round.png.flat",
+        "source": "C:\\Users\\basti\\AndroidStudioProjects\\Aereports\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher_custom_round.png"
+    },
+    {
+        "merged": "C:\\Users\\basti\\AndroidStudioProjects\\Aereports\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_launcher_custom_foreground.png.flat",
+        "source": "C:\\Users\\basti\\AndroidStudioProjects\\Aereports\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher_custom_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\basti\\AndroidStudioProjects\\Aereports\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_launcher_custom_foreground.png.flat",
+        "source": "C:\\Users\\basti\\AndroidStudioProjects\\Aereports\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher_custom_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\basti\\AndroidStudioProjects\\Aereports\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_launcher_custom.png.flat",
+        "source": "C:\\Users\\basti\\AndroidStudioProjects\\Aereports\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher_custom.png"
+    },
+    {
+        "merged": "C:\\Users\\basti\\AndroidStudioProjects\\Aereports\\app\\build\\intermediates\\res\\merged\\debug\\anim_slide_in.xml.flat",
+        "source": "C:\\Users\\basti\\AndroidStudioProjects\\Aereports\\app\\src\\main\\res\\anim\\slide_in.xml"
+    },
+    {
+        "merged": "C:\\Users\\basti\\AndroidStudioProjects\\Aereports\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_launcher_custom_foreground.png.flat",
+        "source": "C:\\Users\\basti\\AndroidStudioProjects\\Aereports\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher_custom_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\basti\\AndroidStudioProjects\\Aereports\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_flight_list.xml.flat",
+        "source": "C:\\Users\\basti\\AndroidStudioProjects\\Aereports\\app\\src\\main\\res\\layout\\fragment_flight_list.xml"
+    },
+    {
+        "merged": "C:\\Users\\basti\\AndroidStudioProjects\\Aereports\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\basti\\AndroidStudioProjects\\Aereports\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\basti\\AndroidStudioProjects\\Aereports\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_flight_list.xml.flat",
+        "source": "C:\\Users\\basti\\AndroidStudioProjects\\Aereports\\app\\src\\main\\res\\layout\\activity_flight_list.xml"
+    },
+    {
+        "merged": "C:\\Users\\basti\\AndroidStudioProjects\\Aereports\\app\\build\\intermediates\\res\\merged\\debug\\drawable_rectangle.xml.flat",
+        "source": "C:\\Users\\basti\\AndroidStudioProjects\\Aereports\\app\\src\\main\\res\\drawable\\rectangle.xml"
+    },
+    {
+        "merged": "C:\\Users\\basti\\AndroidStudioProjects\\Aereports\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "C:\\Users\\basti\\AndroidStudioProjects\\Aereports\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher.xml"
+    },
+    {
+        "merged": "C:\\Users\\basti\\AndroidStudioProjects\\Aereports\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\basti\\AndroidStudioProjects\\Aereports\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\basti\\AndroidStudioProjects\\Aereports\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "C:\\Users\\basti\\AndroidStudioProjects\\Aereports\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher_round.xml"
+    },
+    {
+        "merged": "C:\\Users\\basti\\AndroidStudioProjects\\Aereports\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_launcher_custom_round.png.flat",
+        "source": "C:\\Users\\basti\\AndroidStudioProjects\\Aereports\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher_custom_round.png"
+    },
+    {
+        "merged": "C:\\Users\\basti\\AndroidStudioProjects\\Aereports\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_main.xml.flat",
+        "source": "C:\\Users\\basti\\AndroidStudioProjects\\Aereports\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\basti\\AndroidStudioProjects\\Aereports\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\basti\\AndroidStudioProjects\\Aereports\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\basti\\AndroidStudioProjects\\Aereports\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\basti\\AndroidStudioProjects\\Aereports\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\basti\\AndroidStudioProjects\\Aereports\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_arrivee.xml.flat",
+        "source": "C:\\Users\\basti\\AndroidStudioProjects\\Aereports\\app\\src\\main\\res\\drawable\\ic_arrivee.xml"
+    },
+    {
+        "merged": "C:\\Users\\basti\\AndroidStudioProjects\\Aereports\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\basti\\AndroidStudioProjects\\Aereports\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\basti\\AndroidStudioProjects\\Aereports\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_flight_all_details.xml.flat",
+        "source": "C:\\Users\\basti\\AndroidStudioProjects\\Aereports\\app\\src\\main\\res\\layout\\activity_flight_all_details.xml"
+    },
+    {
+        "merged": "C:\\Users\\basti\\AndroidStudioProjects\\Aereports\\app\\build\\intermediates\\res\\merged\\debug\\layout_flight_cell.xml.flat",
+        "source": "C:\\Users\\basti\\AndroidStudioProjects\\Aereports\\app\\src\\main\\res\\layout\\flight_cell.xml"
+    },
+    {
+        "merged": "C:\\Users\\basti\\AndroidStudioProjects\\Aereports\\app\\build\\intermediates\\res\\merged\\debug\\layout-w400dp_activity_flight_list.xml.flat",
+        "source": "C:\\Users\\basti\\AndroidStudioProjects\\Aereports\\app\\src\\main\\res\\layout-w400dp\\activity_flight_list.xml"
+    },
+    {
+        "merged": "C:\\Users\\basti\\AndroidStudioProjects\\Aereports\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_launcher_custom.png.flat",
+        "source": "C:\\Users\\basti\\AndroidStudioProjects\\Aereports\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher_custom.png"
+    },
+    {
+        "merged": "C:\\Users\\basti\\AndroidStudioProjects\\Aereports\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_launcher_custom.png.flat",
+        "source": "C:\\Users\\basti\\AndroidStudioProjects\\Aereports\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher_custom.png"
+    },
+    {
+        "merged": "C:\\Users\\basti\\AndroidStudioProjects\\Aereports\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-anydpi-v26_ic_launcher_custom_round.xml.flat",
+        "source": "C:\\Users\\basti\\AndroidStudioProjects\\Aereports\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher_custom_round.xml"
+    },
+    {
+        "merged": "C:\\Users\\basti\\AndroidStudioProjects\\Aereports\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\basti\\AndroidStudioProjects\\Aereports\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\basti\\AndroidStudioProjects\\Aereports\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_launcher_custom_round.png.flat",
+        "source": "C:\\Users\\basti\\AndroidStudioProjects\\Aereports\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher_custom_round.png"
+    },
+    {
+        "merged": "C:\\Users\\basti\\AndroidStudioProjects\\Aereports\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_ic_launcher_foreground.xml.flat",
+        "source": "C:\\Users\\basti\\AndroidStudioProjects\\Aereports\\app\\src\\main\\res\\drawable-v24\\ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "C:\\Users\\basti\\AndroidStudioProjects\\Aereports\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_depart.xml.flat",
+        "source": "C:\\Users\\basti\\AndroidStudioProjects\\Aereports\\app\\src\\main\\res\\drawable\\ic_depart.xml"
+    },
+    {
+        "merged": "C:\\Users\\basti\\AndroidStudioProjects\\Aereports\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_launcher_custom.png.flat",
+        "source": "C:\\Users\\basti\\AndroidStudioProjects\\Aereports\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher_custom.png"
+    },
+    {
+        "merged": "C:\\Users\\basti\\AndroidStudioProjects\\Aereports\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-anydpi-v26_ic_launcher_custom.xml.flat",
+        "source": "C:\\Users\\basti\\AndroidStudioProjects\\Aereports\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher_custom.xml"
+    },
+    {
+        "merged": "C:\\Users\\basti\\AndroidStudioProjects\\Aereports\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\basti\\AndroidStudioProjects\\Aereports\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\basti\\AndroidStudioProjects\\Aereports\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\basti\\AndroidStudioProjects\\Aereports\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\basti\\AndroidStudioProjects\\Aereports\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_launcher_custom.png.flat",
+        "source": "C:\\Users\\basti\\AndroidStudioProjects\\Aereports\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher_custom.png"
+    },
+    {
+        "merged": "C:\\Users\\basti\\AndroidStudioProjects\\Aereports\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\basti\\AndroidStudioProjects\\Aereports\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\basti\\AndroidStudioProjects\\Aereports\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_launcher_background.xml.flat",
+        "source": "C:\\Users\\basti\\AndroidStudioProjects\\Aereports\\app\\src\\main\\res\\drawable\\ic_launcher_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\basti\\AndroidStudioProjects\\Aereports\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_launcher_custom_foreground.png.flat",
+        "source": "C:\\Users\\basti\\AndroidStudioProjects\\Aereports\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher_custom_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\basti\\AndroidStudioProjects\\Aereports\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_flight_details.xml.flat",
+        "source": "C:\\Users\\basti\\AndroidStudioProjects\\Aereports\\app\\src\\main\\res\\layout\\fragment_flight_details.xml"
+    },
+    {
+        "merged": "C:\\Users\\basti\\AndroidStudioProjects\\Aereports\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_launcher_custom_round.png.flat",
+        "source": "C:\\Users\\basti\\AndroidStudioProjects\\Aereports\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher_custom_round.png"
+    },
+    {
+        "merged": "C:\\Users\\basti\\AndroidStudioProjects\\Aereports\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\basti\\AndroidStudioProjects\\Aereports\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\basti\\AndroidStudioProjects\\Aereports\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_launcher_custom_background.xml.flat",
+        "source": "C:\\Users\\basti\\AndroidStudioProjects\\Aereports\\app\\src\\main\\res\\drawable\\ic_launcher_custom_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\basti\\AndroidStudioProjects\\Aereports\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_launcher_custom_foreground.png.flat",
+        "source": "C:\\Users\\basti\\AndroidStudioProjects\\Aereports\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher_custom_foreground.png"
+    }
+]
